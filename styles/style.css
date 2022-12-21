@@ -1,0 +1,36 @@
+body {
+  background-color: rgb(180, 207, 220);
+}
+
+header img {
+  border-radius: .5em;
+}
+
+.container {
+  margin: 0 auto;
+  width: 100%;
+  max-width: 642px;
+}
+
+main ul {
+  list-style: none;
+  padding: 0;
+}
+
+main ul li {
+  border-top: .75em solid darkblue;
+  border-radius: .5em;
+  background-color: white;
+  padding: 1em;
+  margin-bottom: 1em;
+}
+
+main ul li a {
+  text-decoration: none;
+  color: #333;
+  width: 100%;
+}
+
+footer {
+  text-align: center;
+}
